@@ -1,4 +1,4 @@
 # DIP-Assignment--1
 
-Name - Lakshay
-Roll no. - 2301010306
+Name - Manish
+Roll no. - 2301010302
